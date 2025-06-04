@@ -1,0 +1,126 @@
+/* ---------- BASIS ---------- */
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+body {
+  font-family: system-ui, sans-serif;
+  background: #fafafa;
+  color: #111;
+  line-height: 1.45;
+}
+
+/* ---------- HERO ---------- */
+
+.hero {
+  padding: 3.5rem 1rem 2rem;
+  text-align: center;
+}
+
+.hero__title {
+  font-size: clamp(2.25rem, 4vw, 3rem);
+  font-weight: 800;
+  margin-bottom: 0.75rem;
+}
+
+.hero__subtitle {
+  max-width: 38rem;
+  margin-inline: auto;
+  font-size: 1.125rem;
+  color: #555;
+}
+
+/* ---------- GRID ---------- */
+
+.gift-grid {
+  --gap: 1.5rem;
+  display: grid;
+  gap: var(--gap);
+  padding: 2rem 1rem 4rem;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  max-width: 70%;
+  margin: 0 auto;
+}
+
+/* ---------- CARD ---------- */
+
+.gift-card {
+  position: relative;
+  width: 100%;
+  max-width: 320px;
+  height: 14rem; /* ≈ 224 px */
+  perspective: 1000px;
+  cursor: pointer;
+}
+
+.gift-card__inner {
+  position: absolute;
+  inset: 0;
+  transform-style: preserve-3d;
+  transition: transform 0.6s;
+}
+
+.gift-card.is-unlocked .gift-card__inner {
+  transform: rotateY(180deg);
+}
+
+.gift-card__side {
+  position: absolute;
+  inset: 0;
+  background: #fff;
+  border-radius: 1rem;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  padding: 1.25rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  backface-visibility: hidden;
+  text-align: center;
+}
+
+.gift-card__back {
+  transform: rotateY(180deg);
+}
+
+.gift-card__date {
+  font-size: 1.25rem;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+}
+
+/* ---------- PERSON-BADGES ---------- */
+
+.badge {
+  display: inline-block;
+  padding: 0.25rem 0.75rem;
+  border-radius: 9999px;
+  font-size: 0.8rem;
+  font-weight: 600;
+  margin-bottom: 0.75rem;
+}
+
+.badge--tim {
+  background: #dbeafe;
+  color: #1d4ed8;
+}
+.badge--marie {
+  background: #fce7f3;
+  color: #db2777;
+}
+.badge--joe {
+  background: #dcfce7;
+  color: #15803d;
+}
+
+/* ---------- LOCKED-HINT ---------- */
+
+.locked-hint {
+  color: #9ca3af; /* graublau */
+  margin-top: 0.75rem;
+  font-size: 0.9rem;
+}

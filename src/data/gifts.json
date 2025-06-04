@@ -1,0 +1,362 @@
+[
+  {
+    "date": "2025-06-05",
+    "person": "Joe",
+    "title": "Website zur Erklärung",
+    "description": "Website zur Erklärung dieses Geschenks 💻"
+  },
+  {
+    "date": "2025-06-06",
+    "person": "Joe",
+    "title": "Flasche Wasser",
+    "description": "Man braucht immer etwas vom Elixier des Lebens 💧"
+  },
+  {
+    "date": "2025-06-07",
+    "person": "Tim",
+    "title": "Fake-Lotteriegewinn",
+    "description": "\"Du hast die besten Söhne gewonnen!\" 🎉"
+  },
+  {
+    "date": "2025-06-08",
+    "person": "Marie",
+    "title": "YouTube-Playlist",
+    "description": "10 Songvorschläge von Marie 🎵"
+  },
+  {
+    "date": "2025-06-09",
+    "person": "Tim",
+    "title": "Lieblingsteller",
+    "description": "Teller nach Mamas Geschmack 🍽️"
+  },
+  {
+    "date": "2025-06-10",
+    "person": "Tim",
+    "title": "Podcast-Empfehlungen",
+    "description": "3 Podcast-Vorschläge von Tim 🎙️"
+  },
+  {
+    "date": "2025-06-11",
+    "person": "Tim",
+    "title": "Spende: Share the Meal",
+    "description": "10 € Spende an Share the Meal 💚"
+  },
+  {
+    "date": "2025-06-12",
+    "person": "Marie",
+    "title": "Geheimtipp Hannover",
+    "description": "Empfehlung für einen coolen Ort in Hannover 📍"
+  },
+  {
+    "date": "2025-06-13",
+    "person": "Tim",
+    "title": "Badelöl",
+    "description": "Kleines Badelöl 🛀"
+  },
+  {
+    "date": "2025-06-14",
+    "person": "Marie",
+    "title": "Witze (Teil I)",
+    "description": "3 Witze (Teil I) 😂"
+  },
+  {
+    "date": "2025-06-15",
+    "person": "Marie",
+    "title": "Leinwand‑Mini Marie",
+    "description": "Mini‑Leinwand (Teil 1 von 4) handbemalt von Marie 🎨"
+  },
+  {
+    "date": "2025-06-16",
+    "person": "Tim",
+    "title": "KI‑Postkarte",
+    "description": "Selbst gestaltete Postkarte mit KI‑Kunst 💌"
+  },
+  {
+    "date": "2025-06-17",
+    "person": "Joe",
+    "title": "Theaterkarten",
+    "description": "Gemeinsamer Theaterbesuch 🎭"
+  },
+  {
+    "date": "2025-06-18",
+    "person": "Joe",
+    "title": "Wikipedia‑Seiten (Teil I)",
+    "description": "Drei witzige Wikipedia‑Artikel 😂"
+  },
+  {
+    "date": "2025-06-19",
+    "person": "Alle",
+    "title": "Kinderbild nachstellen",
+    "description": "Joe & Tim stellen ein altes Foto nach; Marie schießt das Bild 🖼️"
+  },
+  {
+    "date": "2025-06-20",
+    "person": "Joe",
+    "title": "Urlaub‑Sound",
+    "description": "Selbst erzeugter Küstensound mit Wellenrauschen & Möwen 🌊"
+  },
+  {
+    "date": "2025-06-21",
+    "person": "Tim",
+    "title": "Namensideen",
+    "description": "5 Namen für dich 🏷️"
+  },
+  {
+    "date": "2025-06-22",
+    "person": "Tim",
+    "title": "Meme",
+    "description": "Selbst erstelltes Meme 🤣"
+  },
+  {
+    "date": "2025-06-23",
+    "person": "Tim",
+    "title": "QR‑Video",
+    "description": "QR‑Code zu einem kurzen Video 💻"
+  },
+  {
+    "date": "2025-06-24",
+    "person": "Tim",
+    "title": "Bildschirm‑Tücher",
+    "description": "Feuchte Reinigungstücher fürs Display 🧼"
+  },
+  {
+    "date": "2025-06-25",
+    "person": "Joe",
+    "title": "KI‑Kinderbild",
+    "description": "Generiertes Kinderbild auf Basis eines Fotos von Mama 🖼️"
+  },
+  {
+    "date": "2025-06-26",
+    "person": "Joe",
+    "title": "Leinwand‑Mini Joe",
+    "description": "Mini‑Leinwand (Teil 2 von 4) handbemalt von Joe 🎨"
+  },
+  {
+    "date": "2025-06-27",
+    "person": "Tim",
+    "title": "Witze (Teil II)",
+    "description": "3 Witze (Teil II) 😂"
+  },
+  {
+    "date": "2025-06-28",
+    "person": "Marie",
+    "title": "Rezeptvorschläge",
+    "description": "Drei Rezepte mit kniffligen Rahmenbedingungen 🍽️"
+  },
+  {
+    "date": "2025-06-29",
+    "person": "Tim",
+    "title": "Badezusatz",
+    "description": "Entspannender Badezusatz 🛀"
+  },
+  {
+    "date": "2025-06-30",
+    "person": "Tim",
+    "title": "Gedicht/Reim",
+    "description": "Kurzes Gedicht oder Reim ✍️"
+  },
+  {
+    "date": "2025-07-01",
+    "person": "Tim",
+    "title": "Un‑Wunsch‑Produkte",
+    "description": "5 Produkte, die du dir sicher NICHT wünschst (mit Bildern & Beschr.) 🚫"
+  },
+  {
+    "date": "2025-07-02",
+    "person": "Tim",
+    "title": "Leinwand‑Mini Tim",
+    "description": "Mini‑Leinwand (Teil 3 von 4) handbemalt von Tim 🎨"
+  },
+  {
+    "date": "2025-07-03",
+    "person": "Joe",
+    "title": "Nordsee‑Bild",
+    "description": "KI‑Bild z. B. mit Ostsee-/Nordsee‑Motiv 🌊"
+  },
+  {
+    "date": "2025-07-04",
+    "person": "Tim",
+    "title": "Spende Greenpeace",
+    "description": "10 € Spende an Greenpeace 💚"
+  },
+  {
+    "date": "2025-07-05",
+    "person": "Tim",
+    "title": "QR‑Rickroll",
+    "description": "QR‑Code zur Rick‑Roll (ohne Erklärung) 💻"
+  },
+  {
+    "date": "2025-07-06",
+    "person": "Joe",
+    "title": "YouTube‑Playlist",
+    "description": "10 Songvorschläge von Joe 🎵"
+  },
+  {
+    "date": "2025-07-07",
+    "person": "Tim",
+    "title": "KI‑Kalender",
+    "description": "Kalender mit eigenen KI‑Bildern von Mama 📅"
+  },
+  {
+    "date": "2025-07-08",
+    "person": "Joe",
+    "title": "Komplimente‑Karte",
+    "description": "Grußkarte mit dem Spruch „Heute bitte nur KOMPLIMENTE“ 💖"
+  },
+  {
+    "date": "2025-07-09",
+    "person": "Marie",
+    "title": "Podcast‑Empfehlungen",
+    "description": "3 Podcast‑Vorschläge von Marie 🎙️"
+  },
+  {
+    "date": "2025-07-10",
+    "person": "Tim",
+    "title": "Puzzle",
+    "description": "Personalisiertes Puzzle 🧩"
+  },
+  {
+    "date": "2025-07-11",
+    "person": "Tim",
+    "title": "Gefrierbeutel",
+    "description": "Immer praktisch – ein Paket Gefrierbeutel 🧊"
+  },
+  {
+    "date": "2025-07-12",
+    "person": "Marie",
+    "title": "Kräutersaat",
+    "description": "Saatgut für Küchenkräuter auf der Fensterbank 🌿"
+  },
+  {
+    "date": "2025-07-13",
+    "person": "Alle",
+    "title": "Nordsee‑Postkarte",
+    "description": "Postkarte mit Ostsee-/Nordsee‑Motiv 💌"
+  },
+  {
+    "date": "2025-07-14",
+    "person": "Tim",
+    "title": "Feste Seife",
+    "description": "Ein Stück feste Seife 🧼"
+  },
+  {
+    "date": "2025-07-15",
+    "person": "Tim",
+    "title": "YouTube‑Playlist",
+    "description": "10 Songvorschläge von Tim 🎵"
+  },
+  {
+    "date": "2025-07-16",
+    "person": "Marie",
+    "title": "Mini‑Topf",
+    "description": "Kleiner Blumentopf für Ableger von Marie 🌿"
+  },
+  {
+    "date": "2025-07-17",
+    "person": "Marie",
+    "title": "Pflanzenableger",
+    "description": "Kleiner Ableger von Marie (bei Desinteresse einfach weitergeben) 🌿"
+  },
+  {
+    "date": "2025-07-18",
+    "person": "Tim",
+    "title": "Lieblingstasse",
+    "description": "Tasse nach Mamas Geschmack ☕"
+  },
+  {
+    "date": "2025-07-19",
+    "person": "Joe",
+    "title": "Pizza‑Gedicht",
+    "description": "KI‑Gedicht über Mamas Pizza 🍽️"
+  },
+  {
+    "date": "2025-07-20",
+    "person": "Joe",
+    "title": "Witze (Teil III)",
+    "description": "3 Witze (Teil III) 😂"
+  },
+  {
+    "date": "2025-07-21",
+    "person": "Joe",
+    "title": "Blumen",
+    "description": "Selbst gepflückte oder gekaufte Blumen 🌸"
+  },
+  {
+    "date": "2025-07-22",
+    "person": "Tim",
+    "title": "Google‑Maps‑Spaß",
+    "description": "5 lustige Orte auf Google Maps 📍"
+  },
+  {
+    "date": "2025-07-23",
+    "person": "Alle",
+    "title": "Muscheln sammeln",
+    "description": "Gemeinsam Muscheln an der Nordsee sammeln 🌊"
+  },
+  {
+    "date": "2025-07-24",
+    "person": "Tim",
+    "title": "Branding‑Tee",
+    "description": "Tee mit eigenem Branding (Etikett überkleben & gestalten) 🍵"
+  },
+  {
+    "date": "2025-07-25",
+    "person": "Tim",
+    "title": "Spende (frei)",
+    "description": "10 € zum Spenden – freie Wahl 💚"
+  },
+  {
+    "date": "2025-07-26",
+    "person": "Marie",
+    "title": "Origami",
+    "description": "Selbst gemachtes Origami 🦢"
+  },
+  {
+    "date": "2025-07-27",
+    "person": "Tim",
+    "title": "Wikipedia‑Seiten (Teil II)",
+    "description": "Drei witzige Wikipedia‑Artikel (Teil II) 😂"
+  },
+  {
+    "date": "2025-07-28",
+    "person": "Tim",
+    "title": "Postkarte",
+    "description": "Postkarte mit Spruch 💌"
+  },
+  {
+    "date": "2025-07-29",
+    "person": "Tim",
+    "title": "Foto‑Lesezeichen",
+    "description": "Lesezeichen mit Foto von uns 🔖"
+  },
+  {
+    "date": "2025-07-30",
+    "person": "Joe",
+    "title": "Podcast‑Empfehlungen",
+    "description": "3 Podcast‑Vorschläge von Joe 🎙️"
+  },
+  {
+    "date": "2025-07-31",
+    "person": "Tim",
+    "title": "Leinwand‑Mini (leer)",
+    "description": "4 Mini‑Leinwände besorgen – gemeinsames Bemalen geplant 🎨"
+  },
+  {
+    "date": "2025-08-01",
+    "person": "Joe",
+    "title": "Meerjungfrau‑Bild",
+    "description": "KI‑Bild: Mama als Meerjungfrau 🌊"
+  },
+  {
+    "date": "2025-08-02",
+    "person": "Joe",
+    "title": "Eigene Podcastfolge",
+    "description": "Eigen produzierte Podcastfolge mit NotebookLM über Timmendorf 🎙️"
+  },
+  {
+    "date": "2025-08-03",
+    "person": "Alle",
+    "title": "66 Gründe",
+    "description": "66 Gründe, warum du großartig bist (Geschenk wird gesucht) 🌟"
+  }
+]
